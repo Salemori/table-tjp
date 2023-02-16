@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background: rgb(245,245,245);
+}
+.container{
+    padding: 40px 108px 80px;
+    background: rgb(255,255,255);
+    width: 605px;
+    margin: 40px auto;
+}
+h1{
+    padding: 0px 0px 15px 0px;
+    text-align: center;
+    width: 92%;
+    font-family: 'Halant', serif;
+    font-weight: 700;
+    font-size: 26px;
+}
+table, th, td{
+    border: 1.9px solid rgb(96,96,96);
+    gap: 0px;
+}
+table{
+    border-collapse: collapse;
+    width: 404px;
+   
+}
+th{
+    font-family: 'Halant', serif;
+    font-weight: 600;
+    font-size: 19px;
+    padding: 4px 50px 4px 8px;
+}
+td{
+    font-family: 'Manrope', sans-serif;
+    font-weight: 500;
+    padding: 8px 50px 8px 8px;
+    font-size: 15px;
+}
